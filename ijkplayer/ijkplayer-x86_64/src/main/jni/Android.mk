@@ -1,0 +1,5 @@
+XSym
+0052
+2e3fb487d2643a82e285dc4b885feed2
+../../../../ijkplayer-armv7a/src/main/jni/Android.mk
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
